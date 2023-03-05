@@ -1,0 +1,21 @@
+.mx-auto{
+    margin: 0;
+    padding: 0;
+
+}
+
+.flex{
+    display: flex;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.font-bold{
+    font-weight: bold;
+}
